@@ -1,0 +1,15 @@
+discord.py>=2.3.0
+```
+
+**`Procfile`:** (if using Render)
+```
+worker: python bot.py
+```
+
+**`.gitignore`:**
+```
+config.json
+moderation.db
+*.pyc
+__pycache__/
+.env
