@@ -246,18 +246,12 @@ id, guild_id, user_id, moderator_id, reason, timestamp
 
 ### Free Hosting Options
 
-**Render.com (Recommended)**
+**Replit.com**
 1. Push your code to GitHub
-2. Sign up at [render.com](https://render.com)
-3. Create new Web Service from your repo
+2. Sign up at [replit.com](replit.com)
+3. Import code from your repo
 4. Add environment variable: `DISCORD_BOT_TOKEN`
 5. Deploy!
-
-**Railway.app**
-1. Sign up at [railway.app](https://railway.app)
-2. New Project → Deploy from GitHub
-3. Add environment variables
-4. Deploy!
 
 **Other Options:**
 - Fly.io
